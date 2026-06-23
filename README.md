@@ -30,6 +30,14 @@ This project utilizes publicly available traffic camera violation data from the 
 
 The database file is not included in this repository due to its size. To run the application, users must obtain the dataset separately and place the database file in the project directory.
 
+## Example Runs
+
+I have included screenshots of 3 different runs of the program in the traffic cam example folder. The three runs show
+
+- The home page of the program
+- An example of violations per year for a specific camera
+- An example of amount of violations by intersection for a specific year
+- 
 ## Example Questions Answered
 
 The application can be used to answer questions such as:
